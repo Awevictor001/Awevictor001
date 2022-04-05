@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Awevictor001
-- 👀 I’m interested in front end and back end developing
-- 🌱 I’m currently learning pho
+- 👀 I’m interested in front-end and back-end developing
+- 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on your work
 - 📫 How to reach me +2348064469307
 
